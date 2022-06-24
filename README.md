@@ -18,6 +18,12 @@ Bu proje Marmara Üniversitesi Dr.  Öğr. Üyesi Serkan Aydın Hocamızın Göm
 * Yukarıdaki pin tablosunu kullanarak ses sensörümü GPIO18 (12.pin) , LED'i ise GPIO 17 (11.pin) ye bağladım. 
 ![image](https://user-images.githubusercontent.com/107412386/175523882-db53f194-a01a-4cf5-bdc9-9e44b5f6ee92.png)
 * Ses algılamısını raspide bulunan jack girşine mikrofon bağlayarak yapacaktım fakat raspideki bu jack giriş olarak değil ses çıkışı almak için kullanıldığını öğrendim, bu sebeple ses çıkışı almak için kullandığım hoparlörü buraya bağladım, ses girişini üzerinde trimpot ile ses seviyesi algılayabileceğim, dijital bir çıkış veren ses sensör ile yaptım.
+* Donanımsal hazırlık bittikten sonra, raspberry'i açtım ve text editor dosyası oluşturdum, dosyanın uzantısını .py olarak değiştirdiğimde phyton dosyası elde etiim, ve kodu burada yazdım. 
+ ![image](https://user-images.githubusercontent.com/107412386/175529537-e57ee3c4-c92e-4861-bea4-884b34535939.png)
+ * Kod açıklamasını kod dosyasında ayrıca yaptım.
+ * ![WhatsApp Image 2022-06-05 at 20 59 18](https://user-images.githubusercontent.com/107412386/175529846-d2656fd0-861e-4dc2-b6b3-cfdabdeb3927.jpeg)
+
+
 
 
 
