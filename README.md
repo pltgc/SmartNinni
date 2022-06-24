@@ -25,8 +25,9 @@ Bu proje Marmara Üniversitesi Dr.  Öğr. Üyesi Serkan Aydın Hocamızın Göm
 
  ![image](https://user-images.githubusercontent.com/107412386/175529537-e57ee3c4-c92e-4861-bea4-884b34535939.png)
 * Kod açıklamasını kod dosyasında ayrıca yaptım.
+* Projenin nasıl çalıştığının videosu eklerde bulunmaktadır.
 
-* ![WhatsApp Image 2022-06-05 at 20 59 18](https://user-images.githubusercontent.com/107412386/175529846-d2656fd0-861e-4dc2-b6b3-cfdabdeb3927.jpeg)
+![WhatsApp Image 2022-06-05 at 20 59 18](https://user-images.githubusercontent.com/107412386/175529846-d2656fd0-861e-4dc2-b6b3-cfdabdeb3927.jpeg)
 
 
 
