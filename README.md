@@ -1,5 +1,5 @@
 # SmartNinni
-Bu proje Marmara Üniversitesi Dr.  Öğr. Üyesi Serkan Aydın Hocamızın Gömülü Sistemler ve Mobil Uygulamalar dersinde bize kattığı bilgiler doğrultusunda ödev olarak hazırlanmıştır.
+Bu proje **Marmara Üniversitesi Dr.  Öğr. Üyesi Serkan Aydın Hocamızın Gömülü Sistemler ve Mobil Uygulamalar dersinde** bize kattığı bilgiler doğrultusunda ödev olarak hazırlanmıştır. Öncelikle hocama dersin başında bizi tanıştırdığı **Cisco IOT eğitimi için ve bizleri ezbere boğmak yerine araştırıp uygulayarak böyle bir proje bitirmemizi sağladığı için teşekkürlerimi sunuyorum**, ve örnek olmasını diler, bir öğrenci için daha faydalı bir uygulama olduğunu belirtmek isterim.
 * Proje konusu bebek ağlaması veya sesi olduğunda ninni çalan ve bir dijital çıkış veren bir sistem, ben  bir LED e çıkış verdim bunun yerine uygun bir röle bağlayıp beşik sallama sistemi de oluşturulabilir diye düşünerek, 
 * Adım adım ilk aşamadan son aşamaya kadar projeyi anlatmaya çalışacağım,
 * İlk olarak raspberry pi kurulumu ile başlayacağım,
